@@ -7,3 +7,5 @@ This module contains articles about algorithms. Some classes of algorithms, e.g.
 
 - Full Stack Developer Indonesia
 - Co-Founder and CTO [Dentist Care Indonesia](https://dentistcare.id/)
+
+Other repository in [gitlab penadidik](https://gitlab.com/penadidik)
